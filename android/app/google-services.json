@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263875982186",
+    "project_id": "vendereite",
+    "storage_bucket": "vendereite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263875982186:android:53383faab3ebf19bd82b13",
+        "android_client_info": {
+          "package_name": "com.wagner.app_vendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263875982186-1a0tvhupmr40034rrv7989ri1lmhhamr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wagner.app_vendas",
+            "certificate_hash": "07927247638acdcb0bce60ae0244061812155400"
+          }
+        },
+        {
+          "client_id": "263875982186-09oos4lamoe5afj7k5b3b1slh7gqm360.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdNDgwbTgJgG9Z-BjgWb32wj2EPz-Tns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263875982186-09oos4lamoe5afj7k5b3b1slh7gqm360.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
